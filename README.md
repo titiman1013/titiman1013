@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-**titiman1013/titiman1013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/)
+
+[![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
+
+
+
+<div align=center>
+  [![Hits](images/badge.svg)](https://hits.seeyoufarm.com) 
+	
+  </div>
