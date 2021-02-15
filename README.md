@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
-  [![Hits](images/badge.svg)](https://hits.seeyoufarm.com) 
-	
-  </div>
+    [![Hits](images/badge.svg)](https://hits.seeyoufarm.com)
+</div>
+
+
