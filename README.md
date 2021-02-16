@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight)
-[![Hyunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013)](https://github.com/anuraghazra/github-readme-stats)
+<-- [![Hyunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013)](https://github.com/anuraghazra/github-readme-stats) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=tokyonight)
 
 
 <div align=center>
