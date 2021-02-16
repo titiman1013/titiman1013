@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight)
 [![Hyunsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013)](https://github.com/anuraghazra/github-readme-stats)
 
 
