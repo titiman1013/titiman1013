@@ -19,8 +19,8 @@
 [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
 
 <div align=center>
-    <p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight)</p>
-    <p>![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=tokyonight)</p>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight)
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=tokyonight)
 </div>
 
 
