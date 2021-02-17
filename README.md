@@ -18,10 +18,16 @@
 
 [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
 
-<div align=center>
+<center>
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight)
     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=tokyonight)
-</div>
+</center>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titiman1013&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titiman1013&repo=convoychat" />
+</a>
 
 
 <div align=center>
