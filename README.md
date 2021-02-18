@@ -24,6 +24,9 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
-    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=tokyonight)
+<br>
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=vue&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=vue)
