@@ -1,27 +1,15 @@
 ![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=306998&height=115&section=footer&text=%20hyunsukRho();&fontColor=FFD43B&fontSize=70&animation=twinkling)
 
 <div align=center>
-<h4>#### 👋 Hi there 👋</h4>
-<p>I'm Hyunsuk Rho interested in Data Science</p>
-<p>My major is BioTech👨‍🎓, and I have been studying computer science💻</p>
-<p>I have project experience using <strong>Python</strong>, Javascript(Vue.js), Java languages</p>
+    <h4>👋 Hi there 👋</h4>
+    <p>I'm Hyunsuk Rho interested in Data Science</p>
+    <p>My major is BioTech👨‍🎓, and I have been studying computer science💻</p>
+    <p>I have project experience using <strong>Python</strong>, Javascript(Vue.js), Java languages</p>
 </div>
 <p align=center>
-    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/) [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
+    <a href="https://titiman1013.github.io/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io"/></a>&nbsp
+    <a href="mailto:titiman444@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=titiman444@gmail.com"/></a>
 </p>
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/) [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
