@@ -6,9 +6,9 @@
 <p>My major is BioTech👨‍🎓, and I have been studying computer science💻</p>
 <p>I have project experience using <strong>Python</strong>, Javascript(Vue.js), Java languages</p>
 </div>
-<center>
+<p align=center>
     [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/) [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
-</center>
+</p>
 
 <!-- Here are some ideas to get you started:
 
