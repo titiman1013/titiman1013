@@ -5,8 +5,10 @@
 <p>I'm Hyunsuk Rho interested in Data Science</p>
 <p>My major is BioTech👨‍🎓, and I have been studying computer science💻</p>
 <p>I have project experience using <strong>Python</strong>, Javascript(Vue.js), Java languages</p>
-<p>[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/) [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)</p>
 </div>
+<center>
+    [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/) [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
+</center>
 
 <!-- Here are some ideas to get you started:
 
