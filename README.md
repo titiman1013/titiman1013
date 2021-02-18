@@ -1,4 +1,11 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=306998&height=180&section=footer&text=%20hyunsukRho();&fontColor=FFD43B&fontSize=90)
+![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=306998&height=115&section=footer&text=%20hyunsukRho();&fontColor=FFD43B&fontSize=70&animation=twinkling)
+
+<div align=center>
+<h4>#### 👋 Hi there 👋</h4>
+<p>I'm Hyunsuk Rho interested in Data Science</p>
+<p>My major is BioTech👨‍🎓, and I have been studying computer science💻</p>
+<p>I have project experience using <strong>Python</strong>, Javascript(Vue.js), Java languages</p>
+</div>
 
 <!-- Here are some ideas to get you started:
 
@@ -14,20 +21,11 @@
 
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://titiman1013.github.io/)](https://titiman1013.github.io/) [![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
 
-[![Gmail Badge](images/Gmail-d14836.svg)](mailto:titiman444@gmail.com)
 
-<center>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight)
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=tokyonight)
-</center>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titiman1013&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=titiman1013&repo=convoychat" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=titiman1013&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=titiman1013&show_icons=true&theme=tokyonight)
+
 
 
 <div align=center>
