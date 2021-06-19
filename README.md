@@ -10,6 +10,7 @@
 <p align="center">
     <a href="https://velog.io/@titiman1013" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a></a>&nbsp
     <a href="mailto:titiman444@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=titiman444@gmail.com"/></a>
+    [Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey&link=https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)](https://drive.google.com/file/d/1oE6KiIafoB9xDQQit--gzLBPakrh3m7Q/view?usp=sharing)
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftitiman1013&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
 
