@@ -3,7 +3,8 @@
 <div align="center">
     <h4>👋 Hi there 👋</h4>
     <center>
-        <a href="mailto:titiman444@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=titiman444@gmail.com"/></a>
+<!--         <a href="mailto:titiman444@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=titiman444@gmail.com"/></a> -->
+        <a href="https://velog.io/@titiman1013" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a></a>
         <a href=https://drive.google.com/file/d/1fSaH53Jv4KsWjEEm9TGij78fY3kumON_/view?usp=sharing><img src="https://img.shields.io/static/v1?label=Portfolio&message=pdf&color=lightgrey"/></a>
     </center>
     <p>I'm Hyunsuk Rho interested in Data Science</p>
@@ -12,7 +13,7 @@
 </div>
 
 <p align="center">
-<!--     <a href="https://velog.io/@titiman1013" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a></a>&nbsp -->
+    &nbsp
     
     
     
