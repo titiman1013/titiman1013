@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=306998&height=115&section=footer&text=%20hyunsukRho();&fontColor=FFD43B&fontSize=70&animation=twinkling)
+![reversal](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=306998&height=115&section=footer&text=%20hyunsukRho();&fontColor=FFD43B&fontSize=70&animation=twinkling)
 
 <div align="center">
     <h4>👋 Hi there 👋</h4>
